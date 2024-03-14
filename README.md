@@ -31,8 +31,7 @@ My hope is that within these pages, you'll find insights that resonate, bring cl
 _These resources are continually updated as I add more content and refine my thoughts. Feel free to dive in and explore._
 
 
-## Resources Overview
-### Cosmic Christian Story: Table of Contents
+## Cosmic Christian Story: Table of Contents
 
 The Preface
 - Embracing the Mysteries - p.2
@@ -94,7 +93,7 @@ Chapter 10: End of the End Times
 
 Miscellaneous Teachings - p.57
 
-### Christian Theology Q&A Contents
+## Christian Theology Q&A Contents
 1. Abortion in Biblical Perspective
 2. Abraham's Bosom: Understanding the Concept
 3. Age of Accountability in Scripture
