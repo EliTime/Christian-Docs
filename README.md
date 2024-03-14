@@ -8,13 +8,13 @@ https://drive.google.com/drive/folders/1PfOVpL300_6EaRSBQhqJ4Xno9GRm3csE?usp=dri
 
 ## Resources Overview
 
-### [Christian Theology Q&A](https://github.com/EliTime/Christian-Docs/blob/main/Christian%20Theology%20Q%20and%20A%20(Final).docx)
+### [Christian Theology Q&A](https://github.com/EliTime/Christian-Docs/blob/main/Christian%20Theology%20Q%20and%20A%20(Final).docx) (Download Raw File)
 
 This is my personal repository of answers to a wide array of theological questions. From the foundational to the profound, I've strived to offer comprehensive insights based on scripture. The document is designed for easy navigation: download it, and you can directly jump to any question of interest using CTRL + Left Click on the titles in the contents page. I update this file regularly with new questions and insights, so keep an eye on the latest JPG summary right below the contents for updates.
 
 _Status: Have about 35% Completed, work in progress, will update as I go._
 
-### [The Cosmic Christian Story](https://github.com/EliTime/Christian-Docs/blob/main/Cosmic%20Christian%20Story%20Final%201.24.2024.docx)
+### [The Cosmic Christian Story](https://github.com/EliTime/Christian-Docs/blob/main/Cosmic%20Christian%20Story%20Final%201.24.2024.docx) (Download Raw File)
 
 Here, I've tried to bridge the gap between traditional Christian beliefs, the curiosity around New Age thought, and the allure of conspiracy theories. This book is my attempt to explore the complex and often misunderstood aspects of our reality, all through the lens of scripture and with the Holy Spirit as our guide. While the subjects tackled may not all be essential for salvation, they offer a unique perspective on biblical answers to challenging questions. It's my personal invitation to you to explore these themes with an open mind and heart.
 
